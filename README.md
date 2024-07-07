@@ -27,8 +27,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuwan-1" alt="bhuwan-1" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuwan-1&show_icons=true&locale=en&layout=compact" alt="bhuwan-1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuwan-1&show_icons=true&locale=en&layout=compact" alt="bhuwan-1" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bhuwan-1&show_icons=true&locale=en" alt="bhuwan-1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuwan-1&show_icons=true&locale=en" alt="bhuwan-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuwan-1&" alt="bhuwan-1" /></p>
