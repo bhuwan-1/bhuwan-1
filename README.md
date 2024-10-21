@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Bhutan-Safe-App**
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
