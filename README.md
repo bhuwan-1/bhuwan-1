@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bhuwan. Call me bhuws :))</h1>
-<h3 align="center">A passionate developer from Bhutan</h3>
+<h3 align="center">A Software Engineer from Bhutan</h3>
 
 
 - 🔭 I’m currently working on **Bhutan-Safe-App**
